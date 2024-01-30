@@ -3,3 +3,5 @@ Ce cours fournit une formation approfondie en gestion de bases de données. Les 
 
 ## Tables des matières
 
+## License
+
