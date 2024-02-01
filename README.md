@@ -4,4 +4,5 @@ Ce cours fournit une formation approfondie en gestion de bases de données. Les 
 ## Tables des matières
 
 ## License
+Ce projet est sous licence conformément à la [licence MIT](LICENSE).
 
